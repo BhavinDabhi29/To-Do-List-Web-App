@@ -21,7 +21,7 @@ This is a simple To-Do List web application built with PHP and MySQL. Users can 
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/your-username/todolist-web-app.git
+   git clone https://github.com/BhavinDabhi29/To-Do-List-Web-App.git
    ```
 
 2. Set up the database:
